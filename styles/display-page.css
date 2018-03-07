@@ -1,0 +1,42 @@
+main {
+	padding-top:20px;
+	font-size:0;
+}
+.box {
+	max-width: 800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.upperbox {
+	height: 200px;
+	width:50%;
+	display:inline-block;
+	border:1px black solid;
+}
+.lowerbox {
+	height:300px;
+	width:33.33%;
+	display:inline-block;
+	border:1px black solid;
+}
+
+.greenbox {
+	background-color:green;
+}
+
+.bluebox {
+	background-color:blue;
+}
+
+.graybox {
+	background-color:gray;
+}
+
+.blackbox {
+	background-color:black;
+}
+
+.orangebox {
+	background-color:orange;
+}
