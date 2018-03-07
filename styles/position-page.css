@@ -1,1 +1,72 @@
 
+
+nav {
+	width:100%;
+	padding-left: 60px;
+	padding-right:60px;
+	position:fixed;
+	background-color: gray;
+	height:75px;
+	text-align-left;
+}
+
+.logo {
+	height: 60px;
+	width:60px;
+	position:absolute;
+	left:10px;
+	top: 5px;
+}
+
+span {
+	position:absolute;
+	left: 90px;
+	padding-top: 30px;
+}
+main {
+	padding-top:150px;
+
+}
+
+#bg {
+	position:fixed;
+	top:75px;
+	left:0;
+	min-width:100%;
+	min-height:100%;
+}
+
+.parent {
+	position: relative;
+	
+}
+
+.dottedbox {
+	position:absolute;
+	width:600px;
+	height:300px;
+	border: 10px green dashed;
+	left: 200px;
+	top:50px;
+}
+
+.catimage, .dogimage {
+	width=200px;
+	height=200px;
+}
+
+.catimg {
+	position:absolute;
+	left: 100px;
+	top:-25px;
+}
+
+.dogimg {
+	position:absolute;
+	top: 175px;
+	left: 630px;
+}
+
+
+
+
